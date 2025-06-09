@@ -1,0 +1,15 @@
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\bin\Debug\net8.0\I_Bll.deps.json
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\bin\Debug\net8.0\I_Bll.dll
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\bin\Debug\net8.0\I_Bll.pdb
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\bin\Debug\net8.0\Dto.dll
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\bin\Debug\net8.0\Dto.pdb
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\I_Bll.csproj.AssemblyReference.cache
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\I_Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\I_Bll.AssemblyInfoInputs.cache
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\I_Bll.AssemblyInfo.cs
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\I_Bll.csproj.CoreCompileInputs.cache
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\I_Bll.csproj.Up2Date
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\I_Bll.dll
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\refint\I_Bll.dll
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\I_Bll.pdb
+C:\D\c#_פרויקט אנגולר\project C#\I_Bll\obj\Debug\net8.0\ref\I_Bll.dll
