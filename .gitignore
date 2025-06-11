@@ -1,0 +1,38 @@
+## קבצים של Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## תיקיות קומפילציה
+bin/
+obj/
+TestResults/
+out/
+
+## קבצי לוגים וזמניים
+*.log
+*.tmp
+*.bak
+
+## קבצי קונפיגורציה אישיים
+*.env
+*.local.json
+
+## תיקיות של build
+build/
+artifacts/
+
+## Ignore NuGet Packages (אם משתמשים ב-cache)
+packages/
+*.nupkg
+project.lock.json
+
+## קבצים של Rider או JetBrains
+.idea/
+*.sln.iml
+
+## קבצי מערכת
+Thumbs.db
+Desktop.ini
